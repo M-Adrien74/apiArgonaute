@@ -1,0 +1,6 @@
+api_platform:
+    resource: .
+    type: api_platform
+    prefix: /apip
+    defaults:
+        pagination_enabled: false
